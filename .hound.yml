@@ -1,0 +1,4 @@
+# Flake8 Python Code Style 3.5.0
+# https://flake8.readthedocs.io/en/3.5.0/
+flake8:
+  enabled: true
